@@ -107,6 +107,10 @@ IMPORTANT INSTRUCTIONS
 
 OUTPUT FORMAT (always)
 - Demand (units): <INTEGER>
+- Product Name: [optional]
+  - Provided we have the Product Name received from the tool
+- Category Name: [optional]
+  - Provided we have the Category received from the tool 
 - Key Drivers:
   - <factor with concrete numbers, rounded to 2 decimals>
   - <factor>
