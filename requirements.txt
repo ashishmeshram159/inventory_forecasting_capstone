@@ -2,6 +2,15 @@ langgraph
 langchain
 langchain-openai 
 langchain-groq
+langchain-core
+openai  
+llama-index 
+llama-index-vector-stores-pinecone
+llama-index-core
+llama-index-embeddings-huggingface 
+llama-index-llms-groq
 pandas
 python-dotenv
 openpyxl
+google-adk
+litellm
